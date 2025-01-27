@@ -116,6 +116,7 @@ body {
   .swipper-container{
     margin-top: 20px;
     position: relative;
+      width: 100%;
   }
   body .swipper-fornecedores{
     margin: 0 40px!important;
